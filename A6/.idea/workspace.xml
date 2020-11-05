@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb31a78-bf94-4e9d-a916-e55a2f34b5a9" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <change beforePath="$PROJECT_DIR$/src/SeamCarving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeamCarving.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< HEAD
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/A6$SeamCarvingTest_getHVneighbors.ic" NAME="SeamCarvingTest.getHVneighbors Coverage Results" MODIFIED="1582579619177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/tests/SeamCarvingTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="1891">
+                    <caret line="117" column="32" lean-forward="true" selection-start-line="117" selection-start-column="32" selection-end-line="117" selection-end-column="32" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="976412554">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="12577" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12577" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="14" />
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="14" />
+          <entry key="JAVA" value="14" />
+=======
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1973486840">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="jpg" value="3" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="369" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="369" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+<<<<<<< HEAD
+  <component name="FavoritesManager">
+    <favorites_list name="A6" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SeamCarving.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="310" column="9" lean-forward="true" selection-start-line="310" selection-start-column="9" selection-end-line="310" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SeamCarving.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="161" column="5" lean-forward="true" selection-start-line="161" selection-start-column="5" selection-end-line="161" selection-end-column="5" />
+              <folding>
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/image/BufferedImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="1015" selection-start-line="1015" selection-end-line="1015" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/Pair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+=======
+        <entry file="file://$PROJECT_DIR$/tests/SeamCarvingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="217" column="54" selection-start-line="217" selection-start-column="54" selection-end-line="217" selection-end-column="54" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/tests/SeamCarvingTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+=======
+        <entry file="file://$PROJECT_DIR$/tests/DPwithImageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3978">
+              <caret line="245" column="24" selection-start-line="245" selection-start-column="24" selection-end-line="245" selection-end-column="24" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pixels</find>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/winter-sun-cut2.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/small-line.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/balloon-sky-cut.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraderUtil.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file</find>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/SeamCarvingTest.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/tests/DPwithImageTest.java" />
+        <option value="$PROJECT_DIR$/tests/SeamCarvingTest2.java" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        <option value="$PROJECT_DIR$/src/SeamCarving.java" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1Y4Cf52OmjovBZ8rWeXUdMAbQyZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="294" />
+    <option name="y" value="120" />
+    <option name="width" value="2614" />
+    <option name="height" value="1340" />
+  </component>
+  <component name="ProjectId" id="1Y4Cf52OmjovBZ8rWeXUdMAbQyZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+<<<<<<< HEAD
+    <panes />
+=======
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582769320183" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582855266974" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../C343Spring2020/Labs/L7" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maazin\Documents\C343\343 UI 2020 Spring Git Enabled\distribution\A6\tests" />
+      <recent name="C:\Users\maazin\Documents\C343\343 UI 2020 Spring Git Enabled\distribution\A6" />
+      <recent name="C:\Users\maazin\Documents\C343\343 UI 2020 Spring Git Enabled\distribution\A6\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maazin\Documents\C343\343 UI 2020 Spring Git Enabled\distribution\A6\src" />
+    </key>
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="JUnit.SeamCarvingTest.cutSmall">
+    <configuration name="SeamCarvingTest.bestSeam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="bestSeam" />
+      <option name="TEST_OBJECT" value="method" />
+=======
+  <component name="RunManager" selected="JUnit.SeamCarvingTest.bestSeam">
+    <configuration name="SeamCarvingTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest2" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SeamCarvingTest.cutBigBalloonTWoThirds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="cutBigBalloonTWoThirds" />
+=======
+    <configuration name="SeamCarvingTest2.cutIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest2" />
+      <option name="METHOD_NAME" value="cutIterationTest" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SeamCarvingTest.cutBigSunHalf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="cutBigSunHalf" />
+=======
+    <configuration name="SeamCarvingTest2.cutMedium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest2" />
+      <option name="METHOD_NAME" value="cutMedium" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SeamCarvingTest.cutSmall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="cutSmall" />
+=======
+    <configuration name="SeamCarvingTest.bestSeam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="bestSeam" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SeamCarvingTest.seam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="seam" />
+=======
+    <configuration name="SeamCarvingTest.cutBigBalloonTWoThirds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeamCarvingTest" />
+      <option name="METHOD_NAME" value="cutBigBalloonTWoThirds" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SeamCarvingTest.bestSeam" />
+<<<<<<< HEAD
+      <item itemvalue="JUnit.SeamCarvingTest.cutSmall" />
+      <item itemvalue="JUnit.SeamCarvingTest.cutBigBalloonTWoThirds" />
+      <item itemvalue="JUnit.SeamCarvingTest.cutBigSunHalf" />
+      <item itemvalue="JUnit.SeamCarvingTest.seam" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeamCarvingTest.cutSmall" />
+        <item itemvalue="JUnit.SeamCarvingTest.seam" />
+        <item itemvalue="JUnit.SeamCarvingTest.cutBigSunHalf" />
+        <item itemvalue="JUnit.SeamCarvingTest.cutBigBalloonTWoThirds" />
+        <item itemvalue="JUnit.SeamCarvingTest.bestSeam" />
+=======
+      <item itemvalue="JUnit.SeamCarvingTest2.cutMedium" />
+      <item itemvalue="JUnit.SeamCarvingTest2" />
+      <item itemvalue="JUnit.SeamCarvingTest.cutBigBalloonTWoThirds" />
+      <item itemvalue="JUnit.SeamCarvingTest2.cutIterationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeamCarvingTest.bestSeam" />
+        <item itemvalue="JUnit.SeamCarvingTest2" />
+        <item itemvalue="JUnit.SeamCarvingTest2.cutMedium" />
+        <item itemvalue="JUnit.SeamCarvingTest2.cutIterationTest" />
+        <item itemvalue="JUnit.SeamCarvingTest.cutBigBalloonTWoThirds" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb31a78-bf94-4e9d-a916-e55a2f34b5a9" name="Default Changelist" comment="" />
+      <created>1582192579893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582192579893</updated>
+      <workItem from="1582584067920" duration="1178000" />
+      <workItem from="1582660209141" duration="7938000" />
+      <workItem from="1582774230183" duration="1025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+<<<<<<< HEAD
+    <history-entry file="SeamCarvingTest_cutBigSunHalf - 2020.02.26 at 20h 18m 28s.xml">
+      <configuration name="SeamCarvingTest.cutBigSunHalf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 18m 35s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 33m 28s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 40m 01s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 40m 17s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 42m 32s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 43m 14s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_seam - 2020.02.26 at 20h 43m 47s.xml">
+      <configuration name="SeamCarvingTest.seam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_cutSmall - 2020.02.26 at 20h 50m 14s.xml">
+      <configuration name="SeamCarvingTest.cutSmall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_cutSmall - 2020.02.26 at 20h 57m 25s.xml">
+      <configuration name="SeamCarvingTest.cutSmall" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.25" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32932165" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32785088" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39583334" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32785088" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+=======
+    <history-entry file="SeamCarvingTest_cutBigBalloonTWoThirds - 2020.02.25 at 15h 24m 44s.xml">
+      <configuration name="SeamCarvingTest.cutBigBalloonTWoThirds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2 - 2020.02.25 at 15h 28m 45s.xml">
+      <configuration name="SeamCarvingTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2_cutIterationTest - 2020.02.25 at 15h 40m 17s.xml">
+      <configuration name="SeamCarvingTest2.cutIterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2_cutIterationTest - 2020.02.25 at 15h 41m 59s.xml">
+      <configuration name="SeamCarvingTest2.cutIterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2_cutIterationTest - 2020.02.25 at 15h 42m 49s.xml">
+      <configuration name="SeamCarvingTest2.cutIterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2_cutIterationTest - 2020.02.25 at 15h 43m 54s.xml">
+      <configuration name="SeamCarvingTest2.cutIterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2_cutIterationTest - 2020.02.25 at 15h 45m 34s.xml">
+      <configuration name="SeamCarvingTest2.cutIterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2_cutMedium - 2020.02.25 at 15h 55m 10s.xml">
+      <configuration name="SeamCarvingTest2.cutMedium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest2 - 2020.02.25 at 15h 59m 45s.xml">
+      <configuration name="SeamCarvingTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeamCarvingTest_bestSeam - 2020.02.26 at 22h 35m 52s.xml">
+      <configuration name="SeamCarvingTest.bestSeam" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10141000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25594854" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="83" key="GridCell.Tab.0.bottom" timestamp="1582194649846">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1358" height="83" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1582194649846" />
+    <state width="1358" height="83" key="GridCell.Tab.0.center" timestamp="1582194649845">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1358" height="83" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1582194649845" />
+    <state width="1358" height="83" key="GridCell.Tab.0.left" timestamp="1582194649845">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1358" height="83" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1582194649845" />
+    <state width="1358" height="83" key="GridCell.Tab.0.right" timestamp="1582194649845">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1358" height="83" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1582194649845" />
+  </component>
+<<<<<<< HEAD
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="228" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../L6/src/minDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="79" column="62" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="79" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#5951#6086#0" expanded="true" />
+            <element signature="e#6085#6086#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/SeamCarvingTest.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/small-axe.png" />
+    <entry file="file://$PROJECT_DIR$/src/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SeamCarvingTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/DPwithImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="245" column="24" selection-start-line="245" selection-start-column="24" selection-end-line="245" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1015" selection-start-line="1015" selection-end-line="1015" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SeamCarvingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1891">
+          <caret line="117" column="32" lean-forward="true" selection-start-line="117" selection-start-column="32" selection-end-line="117" selection-end-column="32" />
+=======
+    <entry file="file://$PROJECT_DIR$/winter-sun-cut2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/small-line.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/balloon-sky-cut.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraderUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SeamCarvingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="217" column="54" selection-start-line="217" selection-start-column="54" selection-end-line="217" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeamCarving.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="475">
+          <caret line="310" column="9" lean-forward="true" selection-start-line="310" selection-start-column="9" selection-end-line="310" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+=======
+        <state relative-caret-position="39">
+          <caret line="161" column="5" lean-forward="true" selection-start-line="161" selection-start-column="5" selection-end-line="161" selection-end-column="5" />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>A6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+</project>

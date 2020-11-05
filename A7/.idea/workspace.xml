@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="7e27fd3e-164b-4479-9fc4-a409faffcd0e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="7e27fd3e-164b-4479-9fc4-a409faffcd0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/A9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/src/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/src/TreePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/test/HeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/L8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/src/TreePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/tests/BSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
+    </list>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
+    <session id="779899050">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+=======
+    <session id="2124966928">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="5" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="java" value="25" />
+=======
+          <entry key="class" value="1" />
+          <entry key="java" value="4" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="JAVA" value="25" />
+=======
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="4" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="java" value="10672" />
+=======
+          <entry key="java" value="5027" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="JAVA" value="10672" />
+=======
+          <entry key="JAVA" value="5027" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/AVL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="267" column="76" lean-forward="true" selection-start-line="267" selection-start-column="76" selection-end-line="267" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#5258#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#2139#2140#0" expanded="true" />
+                <element signature="e#2229#2230#0" expanded="true" />
+                <element signature="e#8767#8768#0" expanded="true" />
+                <element signature="e#8818#8819#0" expanded="true" />
+                <element signature="e#8869#8870#0" expanded="true" />
+                <element signature="e#8922#8923#0" expanded="true" />
+                <element signature="e#8953#8954#0" expanded="true" />
+                <element signature="e#8996#8997#0" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="259" column="32" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AVL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3601">
+              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/test/BSTTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3451">
+              <caret line="210" selection-start-line="210" selection-end-line="210" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/AVLTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+<<<<<<< HEAD
+      <find>iterator</find>
+      <find>getLeftT</find>
+      <find>NULLPOINT</find>
+=======
+      <find>leaf</find>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/../../../../2020C343/343/IdeaProjects/IdeaProjects/Assignment8/src/BinTree.java" />
+        <option value="$PROJECT_DIR$/test/BSTTest.java" />
+        <option value="$PROJECT_DIR$/src/BST.java" />
+        <option value="$PROJECT_DIR$/src/AVL.java" />
+        <option value="$PROJECT_DIR$/test/AVLTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+=======
+        <option value="$PROJECT_DIR$/test/BSTTest.java" />
+        <option value="$PROJECT_DIR$/test/AVLTest.java" />
+        <option value="$PROJECT_DIR$/src/AVL.java" />
+        <option value="$PROJECT_DIR$/src/BST.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="972" />
+    <option name="width" value="955" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1YpEaXFyFPXWm8w8MOsJY2pDWn8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="136" />
+    <option name="y" value="210" />
+    <option name="width" value="2614" />
+    <option name="height" value="1340" />
+  </component>
+  <component name="ProjectId" id="1YpEaXFyFPXWm8w8MOsJY2pDWn8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BST.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585794650665" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585847983862" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A9" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="JUnit.AVLTest.AVLRotateLeft">
+    <configuration name="AVLTest.AVLRotateLeft" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLRotateLeft" />
+      <option name="TEST_OBJECT" value="method" />
+=======
+  <component name="RunManager" selected="JUnit.AVLTest.AVLdelete">
+    <configuration name="AVLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="AVLTest.AVLRotateRight2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLRotateRight2" />
+=======
+    <configuration name="AVLTest.AVLdelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLdelete" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="AVLTest.AVLdelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLdelete" />
+=======
+    <configuration name="AVLTest.AVLeasyRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLeasyRight" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="AVLTest.AVLeasyLeft" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLeasyLeft" />
+=======
+    <configuration name="AVLTest.AVLrotateRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLrotateRight" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="AVLTest.AVLrotateRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLrotateRight" />
+=======
+    <configuration name="BSTTest.BSTiteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTest" />
+      <option name="METHOD_NAME" value="BSTiteratorTest" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+<<<<<<< HEAD
+      <item itemvalue="JUnit.AVLTest.AVLrotateRight" />
+      <item itemvalue="JUnit.AVLTest.AVLdelete" />
+      <item itemvalue="JUnit.AVLTest.AVLRotateRight2" />
+      <item itemvalue="JUnit.AVLTest.AVLeasyLeft" />
+      <item itemvalue="JUnit.AVLTest.AVLRotateLeft" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLTest.AVLRotateLeft" />
+        <item itemvalue="JUnit.AVLTest.AVLeasyLeft" />
+        <item itemvalue="JUnit.AVLTest.AVLdelete" />
+        <item itemvalue="JUnit.AVLTest.AVLRotateRight2" />
+        <item itemvalue="JUnit.AVLTest.AVLrotateRight" />
+=======
+      <item itemvalue="JUnit.AVLTest.AVLeasyRight" />
+      <item itemvalue="JUnit.AVLTest.AVLrotateRight" />
+      <item itemvalue="JUnit.AVLTest.AVLdelete" />
+      <item itemvalue="JUnit.AVLTest" />
+      <item itemvalue="JUnit.BSTTest.BSTiteratorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLTest.AVLdelete" />
+        <item itemvalue="JUnit.BSTTest.BSTiteratorTest" />
+        <item itemvalue="JUnit.AVLTest" />
+        <item itemvalue="JUnit.AVLTest.AVLrotateRight" />
+        <item itemvalue="JUnit.AVLTest.AVLeasyRight" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e27fd3e-164b-4479-9fc4-a409faffcd0e" name="Default Changelist" comment="" />
+      <created>1583631198573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583631198573</updated>
+      <workItem from="1584901401919" duration="21507000" />
+      <workItem from="1585513260360" duration="3426000" />
+      <workItem from="1585595692764" duration="8145000" />
+      <workItem from="1585847294773" duration="1287000" />
+      <workItem from="1586566962724" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+<<<<<<< HEAD
+    <history-entry file="AVLTest_AVLrotateRight - 2020.04.01 at 17h 15m 22s.xml">
+      <configuration name="AVLTest.AVLrotateRight" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLrotateRight - 2020.04.01 at 17h 23m 41s.xml">
+      <configuration name="AVLTest.AVLrotateRight" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLRotateRight2 - 2020.04.01 at 17h 24m 14s.xml">
+      <configuration name="AVLTest.AVLRotateRight2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.04.01 at 17h 24m 21s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.04.01 at 17h 27m 11s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLeasyLeft - 2020.04.01 at 21h 16m 08s.xml">
+      <configuration name="AVLTest.AVLeasyLeft" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLeasyLeft - 2020.04.01 at 21h 17m 38s.xml">
+      <configuration name="AVLTest.AVLeasyLeft" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLeasyLeft - 2020.04.01 at 21h 17m 45s.xml">
+      <configuration name="AVLTest.AVLeasyLeft" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLRotateLeft - 2020.04.01 at 21h 26m 01s.xml">
+      <configuration name="AVLTest.AVLRotateLeft" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLRotateLeft - 2020.04.01 at 21h 26m 22s.xml">
+      <configuration name="AVLTest.AVLRotateLeft" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="972" y="0" width="955" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+=======
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 16h 46m 47s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 16h 58m 41s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 16h 59m 19s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 17h 05m 05s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 11m 50s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 12m 37s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 14m 57s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 15m 19s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 15m 54s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 16m 25s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34382000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21157557" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43530703" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32894737" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32969433" />
+    </layout>
+  </component>
+=======
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1583633492884">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="428" y="141" key="#com.intellij.ide.util.MemberChooser/0.23.1440.839@0.23.1440.839" timestamp="1583633492884" />
+    <state x="327" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583631304596">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="327" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.839@0.23.1440.839" timestamp="1583631304596" />
+    <state x="387" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583631310542">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="387" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.839@0.23.1440.839" timestamp="1583631310542" />
+    <state x="280" y="186" width="670" height="676" key="search.everywhere.popup" timestamp="1583635038083">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="280" y="186" width="670" height="676" key="search.everywhere.popup/0.23.1440.839@0.23.1440.839" timestamp="1583635038083" />
+  </component>
+<<<<<<< HEAD
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../2020C343/343/IdeaProjects/IdeaProjects/Assignment7/src/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../2020C343/343/IdeaProjects/IdeaProjects/Assignment8/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../L7/src/BinTree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../L7/src/Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../2020C343/343/IdeaProjects/IdeaProjects/Assignment8/src/TreePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/BSTTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-3601">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../2020C343/343/IdeaProjects/IdeaProjects/Assignment8/src/BinTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="387" column="12" lean-forward="true" selection-start-line="387" selection-start-column="12" selection-end-line="387" selection-end-column="12" />
+=======
+        <state relative-caret-position="455">
+          <caret line="259" column="32" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="665">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+=======
+        <state relative-caret-position="3451">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AVLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="689">
+          <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../2020C343/343/IdeaProjects/IdeaProjects/Assignment8/src/Tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="267" column="76" lean-forward="true" selection-start-line="267" selection-start-column="76" selection-end-line="267" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#5258#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#2139#2140#0" expanded="true" />
+            <element signature="e#2229#2230#0" expanded="true" />
+            <element signature="e#8767#8768#0" expanded="true" />
+            <element signature="e#8818#8819#0" expanded="true" />
+            <element signature="e#8869#8870#0" expanded="true" />
+            <element signature="e#8922#8923#0" expanded="true" />
+            <element signature="e#8953#8954#0" expanded="true" />
+            <element signature="e#8996#8997#0" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="2057">
+          <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+        </state>
+      </provider>
+    </entry>
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>A7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+</project>
